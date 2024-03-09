@@ -1,4 +1,4 @@
-package com.example.registerapp
+package com.haste.registerapp
 
 import org.junit.Test
 

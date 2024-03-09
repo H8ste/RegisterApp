@@ -1,4 +1,4 @@
-package com.example.registerapp.ui.theme
+package com.haste.registerapp.ui.theme
 
 import android.app.Activity
 import android.os.Build

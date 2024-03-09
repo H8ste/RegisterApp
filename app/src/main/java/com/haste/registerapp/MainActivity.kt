@@ -1,4 +1,4 @@
-package com.example.registerapp
+package com.haste.registerapp
 
 import android.accounts.AccountManager
 import android.app.PendingIntent
@@ -63,7 +63,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.core.content.ContextCompat.startActivity
-import com.example.registerapp.ui.theme.RegisterAppTheme
+import com.haste.registerapp.ui.theme.RegisterAppTheme
 import org.json.JSONArray
 import org.json.JSONObject
 import java.text.DateFormat
